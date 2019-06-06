@@ -9,8 +9,7 @@
         <meta name="description"
         content="this is my first website">
         
-        <link href="style.css"
-        type="type/css" rel="stylesheet">
+        <style>
             h1{
                 color:#4286f4;
                 
@@ -24,9 +23,7 @@
                 color:maroon;
                 background:pink;
             }
-
-
-        
+        </style>
 
 
     </head>
