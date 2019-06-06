@@ -1,21 +1,10 @@
-<!DOCTYPE html>
-<html>
 
-<head>
-        <meta charset="utf-8">
-        <title> Myfirst web page</title>
-        <meta name="keywords" 
-        content="my page, my website,first page">
-        <meta name="description"
-        content="this is my first website">
-        
-        <style>
             h1{
                 color:#4286f4;
                 
                 background:yellow;
             }
-            #first{
+            h3{
                 background:green;
                 color:#9b59b6;
             }
@@ -23,49 +12,3 @@
                 color:maroon;
                 background:pink;
             }
-        </style>
-
-
-    </head>
-    <body style=color:black
-    background:silver>
-        sree charan reddy</br>
-        bootcamp practise</br>
-
-        <p>Today is my first day in coding bootcamp.
-        im here to learn web development basics-html,css,php</p> </br>
-        <h1> charan </h1>
-        
-        <h3> hobbies</h3>
-        <ol> 
-            <li> eat </li>
-            <li> sleep</li>
-            <li> repeat</li>
-        <h3 id="first"> skills</h3>
-        <ul> 
-            <li> eat </li>
-            <li> sleep</li>
-            <li> repeat</li>
-        <h3> education</h3>
-        <table border=1>
-  <tr>
-    <th>board</th>
-    <th>institute</th> 
-    <th>percentage</th>
-  </tr>
-  <tr>
-    <td>icse</td>
-    <td>johnson</td> 
-    <td>80</td>
-  </tr>
-  <tr>
-    <td>tsib</td>
-    <td>narayana</td> 
-    <td>94</td>
-  </tr>
-</table>
-
-
-
-    </body>
-</html>
